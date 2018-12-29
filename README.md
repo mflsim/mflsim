@@ -1,2 +1,2 @@
-# mflsim
-money flow simulator
+# Money Flow Sim
+
