@@ -50,3 +50,12 @@
 -viewer, help, viewid, food consumption small fixes
 -buygood function rewrite
 -goods production function
+
+0.11 dev 04.01.2019
+-child support rewrite
+-view, viewid, deposit, depositout, born, lastid, help fixes
+-dead trigger system
+-manual credit rewrite
+-credit score system
+-good price new calc v2
+-save history to file
