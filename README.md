@@ -1,4 +1,4 @@
-# Money Flow Sim
+# Money Flow Sim (OLD REPOSITORY - DEPRECATED)
 ### About
 Money Flow Sim is the financial simulator/game with detail "person" simulating. 
 
